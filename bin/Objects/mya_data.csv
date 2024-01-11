@@ -1,0 +1,4 @@
+team,match,auto-top-cone,auto-middle-cone,auto-bottom-cone,auto-top-cubes,auto-middle-cubes,auto-bottom-cubes,init-movement,auto-dock-points,teleop-top-cone,teleop-middle-cone,teleop-bottom-cone,teleop-top-cubes,teleop-middle-cubes,teleop-bottom-cubes,starting-balls,teleop-dock-points,notes
+1418,1,3,0,0,0,6,0,true,"D & not E",0,3,0,2,0,0,1,"D & E",""
+1418,2,3,3,0,0,0,1,false,"D & not E",3,1,0,5,1,1,10,"parked",""
+1418,3,0,2,0,2,0,0,false,"",0,3,0,0,0,3,6,"",""
